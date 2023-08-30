@@ -62,6 +62,7 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    border-radius: 5px;
     gap: 1rem;
     background-color: white;
     box-shadow: 1px 1px 2px hsl(234, 12%, 34%);
